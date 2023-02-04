@@ -1,0 +1,10 @@
+.employeefeed {
+  align-items: center;
+  justify-content: center;
+  padding-left: 25%;
+  /* border: solid black 1px; */
+}
+
+.headingNews {
+  text-align: center;
+}

@@ -1,0 +1,50 @@
+.projectclass{
+    color: black;
+}
+
+.projectclass:hover{
+    background-color: #AE275F;
+    color: white;
+}
+
+
+.projectButton{
+    color: white;
+    /* text-decoration: none; */
+    border: 1px;
+    width: 150px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #AE275F;
+    transition: 0.2s;
+}
+
+.projectButton:hover{
+    background-color: white;
+    color: black;
+}
+
+.divflex{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-left: 10%; */
+    /* margin-right: 15%; */
+   
+}
+
+.projectCard{
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+    height: 2000px;
+
+}
+
+.cardHeader{
+    /* width: 200px; */
+    text-align: center;
+    height: 75px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,33 @@
+#btnlogin {
+  background-color: #ae275f;
+  color: white;
+}
+
+footer {
+  width: 100%;
+  height: 10%;
+  background-color: #e4e4e4;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 5px;
+  bottom: 0;
+}
+
+.bg-image1 {
+  background-image: url("https://img.freepik.com/free-photo/aerial-view-businessman-using-computer-laptop_53876-20492.jpg");
+  /* background-color: lightgray; */
+  opacity: 0.9;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.login-emp {
+  background-color: #e4e4e4;
+  border-radius: 10px;
+  padding-bottom: 15px;
+  z-index: 2;
+  /* opacity: 0.9; */
+}

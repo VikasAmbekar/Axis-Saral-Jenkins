@@ -1,0 +1,17 @@
+.projectclass {
+  color: black;
+}
+
+.projectdetailnav {
+  border: solid black 2px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+
+.project-nav {
+  border: solid black 1px;
+  padding: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}

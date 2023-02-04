@@ -1,0 +1,57 @@
+.pageArea {
+  width: 100%;
+  height: 100vh;
+  border: 5px solid #ae257f;
+}
+
+.leftSide {
+  padding: 5px;
+  margin: 10px;
+  text-align: left;
+}
+
+.main-heading {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+  padding: 8px;
+  text-decoration: underline;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 17px;
+  text-align: left;
+}
+
+.para {
+  text-align: left;
+  font-size: 15px;
+}
+
+.right-bottom {
+  text-align: right;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.left-bottom {
+  text-align: left;
+  font-weight: bold;
+  padding: 15px;
+}
+
+p {
+  padding: 10px;
+}
+
+.btn {
+  margin-left: 40%;
+  transition: 0.2s;
+}
+
+#btnlogin:hover {
+  background-color: white;
+  border: 1px solid gray;
+  color: black;
+}

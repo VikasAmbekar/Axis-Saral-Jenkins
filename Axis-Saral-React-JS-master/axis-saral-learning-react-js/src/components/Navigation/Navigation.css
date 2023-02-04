@@ -1,0 +1,19 @@
+.navbar-brand {
+  font-size: 30px;
+  background-color: #ae275f;
+  color: white;
+  text-transform: uppercase;
+}
+
+#navid {
+  background-color: #ae275f;
+  color: white;
+}
+
+.navbar {
+  z-index: 5;
+  position: sticky;
+  top: 0;
+  padding-top: 0;
+  width: 100%;
+}

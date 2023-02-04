@@ -1,0 +1,15 @@
+1. npm install axios
+2. npm install react-router-dom
+
+MATERIAL UI 
+3. npm install @mui/material @emotion/react @emotion/styled
+4. npm install @mui/material @emotion/react @emotion/styled
+5. npm install @mui/material @mui/styled-engine-sc styled-components
+6. npm install @fontsource/roboto
+7. npm install @mui/icons-material
+8. <link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+9. npm install bootstrap
+10. npm install react-bootstrap

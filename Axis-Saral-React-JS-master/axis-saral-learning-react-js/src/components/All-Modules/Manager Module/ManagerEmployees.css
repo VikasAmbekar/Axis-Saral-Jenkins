@@ -1,0 +1,14 @@
+.employeesearch{
+    align-items: center;
+    justify-content: center;
+    margin-left: 90vh;
+}
+
+.employeebtn{
+    background-color: #AE275F;
+}
+
+.employeebtn:hover{
+    background-color: #AE275F;
+}
+

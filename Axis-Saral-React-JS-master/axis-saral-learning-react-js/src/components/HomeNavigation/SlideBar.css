@@ -1,0 +1,30 @@
+.div1 {
+  width: 20%;
+  height: 100vh;
+  background-color: #ae275f;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 2px;
+}
+.div2 {
+  width: 80%;
+  height: 100vh;
+  background-color: rgb(244, 246, 247);
+  text-align: center;
+  justify-content: center;
+  margin: 30px;
+}
+
+.div3 {
+  display: flex;
+}
+
+ul,
+li {
+  cursor: pointer;
+  list-style-type: none;
+  padding: 10px;
+}

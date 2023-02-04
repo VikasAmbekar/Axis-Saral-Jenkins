@@ -1,0 +1,25 @@
+.main-heading1 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.subject {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.address {
+  padding: 5px;
+  font-weight: bold;
+}
+
+.para1 {
+  padding: 5px;
+}
+
+.bold {
+  font-weight: bold;
+}
